@@ -10,7 +10,7 @@ All the instructions are published on medium in a four part series and starts wi
 * Part I gathers the necessary data files
 * Part II builds the baseline model
 * part III experiments with resnet152 and fine-tunes the hyperparameters
-* Part V builds an application that can be viewed on any device with binder.
+* Part V builds an application that can be viewed on any device with binder, (link is the binder button above).
 * Future research will be ongoing to publish this classifier as an iphone app
 
 
